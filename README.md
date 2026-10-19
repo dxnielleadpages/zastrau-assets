@@ -4,7 +4,7 @@
 Alle Bilder als WebP (lange Kante max. 2400 px). Fotos farbig und unbearbeitet.
 
 - Basis-URL (GitHub Pages, auch für Videos): `https://dxnielleadpages.github.io/zastrau-assets/`
-- CDN-Fallback für Bilder (jsDelivr, max. 20 MB pro Datei): `https://cdn.jsdelivr.net/gh/dxnielleadpages/zastrau-assets@main/`
+- Fallback für Bilder und Logos: `https://raw.githubusercontent.com/dxnielleadpages/zastrau-assets/main/` (jsDelivr ist nicht nutzbar, es liefert nur Repos bis 50 MB aus)
 - Vollständige Liste mit Motiv, Maßen und Einsatz: [`manifest.json`](manifest.json)
 
 ## Benennung
@@ -21,7 +21,8 @@ Alle Bilder als WebP (lange Kante max. 2400 px). Fotos farbig und unbearbeitet.
 | Datei | Beschreibung | Größe |
 |---|---|---|
 | [video/zastrau-film-teaser-loop.mp4](https://dxnielleadpages.github.io/zastrau-assets/video/zastrau-film-teaser-loop.mp4) | Stummer Loop 12 s (Film 0:50–1:02), 1280×720, Hero-Hintergrund | 3.4 MB |
-| [video/zastrau-film-720p.mp4](https://dxnielleadpages.github.io/zastrau-assets/video/zastrau-film-720p.mp4) | Imagefilm 3:20 mit Ton, 1280×720, mobil | 9.7 MB |
+| [video/zastrau-film-1080p.mp4](https://dxnielleadpages.github.io/zastrau-assets/video/zastrau-film-1080p.mp4) | Imagefilm 3:20 mit Ton, 1920×1080, Standard | 50.5 MB |
+| [video/zastrau-film-720p.mp4](https://dxnielleadpages.github.io/zastrau-assets/video/zastrau-film-720p.mp4) | Imagefilm 3:20 mit Ton, 1280×720, mobil | 27.1 MB |
 | [video/zastrau-film-poster.webp](https://dxnielleadpages.github.io/zastrau-assets/video/zastrau-film-poster.webp) | Poster zum Film (Fabian vor der Logowand), 1920×1080 | 0.1 MB |
 
 ## Logo
