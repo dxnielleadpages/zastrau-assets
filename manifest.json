@@ -2147,6 +2147,19 @@
       "cdn": "https://raw.githubusercontent.com/dxnielleadpages/zastrau-assets/main/img/team/gruppe/team-2026-collage.webp"
     },
     {
+      "src": "img/team/gruppe/team-2026-collage.webp",
+      "path": "img/team/gruppe-freisteller/team-2026-freisteller.webp",
+      "motif": "Aktuelles Teamfoto September 2026, alle Personen, freigestellt (transparenter Hintergrund)",
+      "use": "Team, Hero, Über uns auf farbigen Flächen",
+      "orientation": "quer",
+      "width": 2400,
+      "height": 800,
+      "ratio": "3:1",
+      "bytes": 144488,
+      "url": "https://dxnielleadpages.github.io/zastrau-assets/img/team/gruppe-freisteller/team-2026-freisteller.webp",
+      "cdn": "https://raw.githubusercontent.com/dxnielleadpages/zastrau-assets/main/img/team/gruppe-freisteller/team-2026-freisteller.webp"
+    },
+    {
       "src": "Team/Teamfotos/08.09.2026/ZastrauTeamCollage_Posting_2026.jpg",
       "path": "img/team/gruppe/team-2026-posting.webp",
       "motif": "Aktuelles Teamfoto 2026, Social-Format",

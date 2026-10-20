@@ -14,6 +14,7 @@ Alle Bilder als WebP (lange Kante max. 2400 px). Fotos farbig und unbearbeitet.
 - `img/team/<person>/<person>-portrait-<hoch|quer|quadrat>[-sw]-NN.webp` · weitere Ausschnitte
 - `img/team/freisteller/<person>-freisteller.webp` · Ganzkörper, transparent
 - `img/team/gruppe/team-2026-collage.webp` · aktuelles Teamfoto (September 2026)
+- `img/team/gruppe-freisteller/team-2026-freisteller.webp` · aktuelles Teamfoto, freigestellt, transparent
 - `img/film/film-<motiv>.webp` · Standbilder aus dem Imagefilm
 
 ## Video
@@ -147,6 +148,12 @@ Cinzel und Raleway, SIL Open Font License (siehe `fonts/OFL-*.txt`).
 | [team-collage-ohne-miguel-16x7.webp](https://dxnielleadpages.github.io/zastrau-assets/img/team/gruppe/team-collage-ohne-miguel-16x7.webp) | Team-Collage ZastrauTeamCollage_OhneMiguel_16zu7 | 2400×1050 |
 | [team-collage-ohne-miguel-20x8-kopie.webp](https://dxnielleadpages.github.io/zastrau-assets/img/team/gruppe/team-collage-ohne-miguel-20x8-kopie.webp) | Team-Collage ZastrauTeamCollage_OhneMiguel_20zu8 - Kopie | 2400×960 |
 | [team-collage-mit-miguel-20x8.webp](https://dxnielleadpages.github.io/zastrau-assets/img/team/gruppe/team-collage-mit-miguel-20x8.webp) | Team-Collage ZastrauTeamCollage_mitMiguel_20zu8 | 2400×960 |
+
+## img/team/gruppe-freisteller
+
+| Datei | Motiv | Maße |
+|---|---|---|
+| [team-2026-freisteller.webp](https://dxnielleadpages.github.io/zastrau-assets/img/team/gruppe-freisteller/team-2026-freisteller.webp) | Aktuelles Teamfoto September 2026, alle Personen, freigestellt (transparenter Hintergrund) | 2400×800 |
 
 ## img/team/freisteller
 
